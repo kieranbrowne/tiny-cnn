@@ -1,0 +1,4 @@
+name: tf-3
+dependencies:
+    - python=3
+    - tensorflow=1.3
